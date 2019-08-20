@@ -2,7 +2,7 @@
 基于膨胀门卷积的阅读理解式问答模型（Keras实现）
 
 ### 详细介绍
-https://kexue.fm/archives/6906
+- https://kexue.fm/archives/6906
 
 ### 简要说明
 
