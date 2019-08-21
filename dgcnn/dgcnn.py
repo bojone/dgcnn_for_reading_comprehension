@@ -447,7 +447,7 @@ def extract_answer(q_text, p_texts, maxlen=12, threshold=0.1):
 
 def max_in_dict(d):
     if d:
-        return d.keys()[np.argmax(d.values())]
+        return sorted(d.items(), key=lambda s: -s[1])[0][0]
 
 
 def predict(data, filename, threshold=0.1):
