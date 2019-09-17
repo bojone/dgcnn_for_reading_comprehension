@@ -10,6 +10,7 @@ import codecs
 import editdistance
 import warnings
 warnings.filterwarnings("ignore") # 忽略keras带来的满屏警告
+jieba.initialize()
 
 
 mode = 0
