@@ -16,3 +16,6 @@
 ### 下载
 - 词向量： 链接:https://pan.baidu.com/s/1YYE2T3f-lPyLBrJuUowAsA  密码:5p0h
 - 数据集： 链接:https://pan.baidu.com/s/11C21BAupOpiYWoOx23J7Mg  密码:dh9w
+
+### 交流
+QQ交流群：67729435，微信群请加机器人微信号spaces_ac_cn
